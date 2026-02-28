@@ -12,3 +12,11 @@ This repository contains **all homework from the second half-year**.
 ---
 
 This repository is created for **study and practice purposes**.
+
+---
+
+🗁 Pointers
+🗁 Structs
+🗁 Dynamic arrays
+
+---
