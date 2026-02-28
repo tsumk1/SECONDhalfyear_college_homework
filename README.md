@@ -16,7 +16,9 @@ This repository is created for **study and practice purposes**.
 ---
 
 🗁 Pointers
+
 🗁 Structs
+
 🗁 Dynamic arrays
 
 ---
