@@ -13,7 +13,7 @@ std::ostream& operator<<(std::ostream& out, const point& p) {
 int main() {
 
     struct point p{5, 10};
-
+    
     std::cout << p << std::endl; 
 
     return 0;

@@ -25,6 +25,5 @@ int main(){
     print_info(text);
     print_info(c);
  
-
     return 0;
 }
