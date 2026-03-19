@@ -25,12 +25,7 @@ int main(){
     std::cin>> rec.point.y2;
 
     int dif1 = rec.point.x2-rec.point.x1;
-    //int pow1 = pow(dif1, 2);
-
     int dif2 = rec.point.y2-rec.point.y1;
-   // int pow2 = pow(dif2, 2);
-
-    
 
     double area = dif1*dif2;
 

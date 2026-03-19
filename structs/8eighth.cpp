@@ -20,7 +20,6 @@ int main(){
 	std::cin>> product.price1;
     std::cin.ignore();
 	
-	
 
     std::cout<<"Product2"<<std::endl;
     std::cout<<"Enter name: ";
