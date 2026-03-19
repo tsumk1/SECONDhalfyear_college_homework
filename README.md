@@ -19,6 +19,7 @@ This repository is created for **study and practice purposes**.
 
 🗁 Structs
 
-🗁 Dynamic arrays
+‼️🗁 Dynamic arrays
+‼️This folder contains another folder with the same name that contains tasks. This issue will be resolved later.
 
 ---
