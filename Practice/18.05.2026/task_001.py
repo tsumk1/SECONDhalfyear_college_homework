@@ -10,7 +10,8 @@ target = input("Введіть назву товару: ")
 result = find_product(products, target)
 
 if result != -1:
-    print("Товар знайдено на позиції: ", result)
+    print("Товар знайдено на позиції: ", 
+result)
 else:
     print("Товар не знайдено")
  
