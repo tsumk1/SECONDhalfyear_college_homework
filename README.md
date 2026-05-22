@@ -14,6 +14,13 @@ This repository contains **all homework from the second half-year**.
 This repository is created for **study and practice purposes**.
 
 ---
+‼️🗁 Practice‼️
+
+Its important folder. Contains assignments from educational practice.
+
+🗁 PYTHON 
+
+This folder contains base tasks on python. Aims to learn the basic syntax of the language
 
 🗁 Pointers
 
