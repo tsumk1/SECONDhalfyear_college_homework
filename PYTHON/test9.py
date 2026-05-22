@@ -6,3 +6,5 @@ if a > b:
     print("Number",a,"is larger")
 else:
     print("Number",b,"is larger")
+
+# Мої пасхалки хоч хтось помітить? Якщо так , то хай скине мені слово "яблуко" в телеграмі

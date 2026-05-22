@@ -5,3 +5,4 @@ width = int(input("Enter width: "))
 area = height*width
 
 print("Area of rectangle: ", area)
+# є ідейка.... (ідейку шукати в 'Personal-projects')(скоро)
