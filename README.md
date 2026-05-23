@@ -18,9 +18,19 @@ This repository is created for **study and practice purposes**.
 
 Its important folder. Contains assignments from educational practice.
 
+🔍︎ Algorithms (Розділ 1. - Алгоритми і структури даних)
+
+🔍︎ Informatics (Розділ 2. - Інформатика і комп'ютерна техніка )
+
+🔍︎ Programming basics (Розділ 3. - Основи програмування та алгоритмічні мови)
+
+---
+
 🗁 PYTHON 
 
 This folder contains base tasks on python. Aims to learn the basic syntax of the language
+
+---
 
 🗁 Pointers
 
