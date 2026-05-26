@@ -7,4 +7,6 @@ elif a < 0:
     print("Number is negative.")
 else:
     print("Number is zero.")
+
+#Чим глубже лєс...if else if else
     
