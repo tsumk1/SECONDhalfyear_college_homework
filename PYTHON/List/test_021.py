@@ -64,6 +64,7 @@ for i in new_list:
     print(i)
 
 print("\n")
+
 a = 0
 while a < len(new_list):  
     print("hello")
